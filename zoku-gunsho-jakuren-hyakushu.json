@@ -1607,6 +1607,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-jakuren-hyakushu",
   "work": "寂蓮法師百首",
@@ -1619,7 +1623,7 @@
   "blocks": 12,
   "chars": 2968,
   "poems": 95,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T14:14:42+09:00"
